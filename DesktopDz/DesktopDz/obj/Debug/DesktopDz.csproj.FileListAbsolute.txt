@@ -1,0 +1,10 @@
+C:\Users\naima\source\repos\DesktopDz\DesktopDz\bin\Debug\DesktopDz.exe.config
+C:\Users\naima\source\repos\DesktopDz\DesktopDz\bin\Debug\DesktopDz.exe
+C:\Users\naima\source\repos\DesktopDz\DesktopDz\bin\Debug\DesktopDz.pdb
+C:\Users\naima\source\repos\DesktopDz\DesktopDz\obj\Debug\DesktopDz.csproj.AssemblyReference.cache
+C:\Users\naima\source\repos\DesktopDz\DesktopDz\obj\Debug\DesktopDz.Form1.resources
+C:\Users\naima\source\repos\DesktopDz\DesktopDz\obj\Debug\DesktopDz.Properties.Resources.resources
+C:\Users\naima\source\repos\DesktopDz\DesktopDz\obj\Debug\DesktopDz.csproj.GenerateResource.cache
+C:\Users\naima\source\repos\DesktopDz\DesktopDz\obj\Debug\DesktopDz.csproj.CoreCompileInputs.cache
+C:\Users\naima\source\repos\DesktopDz\DesktopDz\obj\Debug\DesktopDz.exe
+C:\Users\naima\source\repos\DesktopDz\DesktopDz\obj\Debug\DesktopDz.pdb
